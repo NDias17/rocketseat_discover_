@@ -1,0 +1,35 @@
+-Remover os pontos da lista
+-Fazer com que os links ocupem toda a largura do #container disponível;
+-Alinhar o texto dos links ao centro;
+-Centralizar os links dentro da [li]
+-O espaçamento interno dos links da lista deve ser de 16px (pra cima e para baixo) e de 24px (para os lados)
+-O espaço entre os elementos da lista deve ser de 16px;
+-A cor dos botões deve ser branca com transparência de 0.1%;
+-A borda dos botões deve ter a cor branca com transparência de 0.5%;
+-Arredondar as bordas dos botões a 8px
+-Embaçar o fundo dos botões com o [backdrop-filter: blur(4px)];
+-O texto dos links deve ter 500px de peso e não pode ter o underline;
+-A caixa de ícones das redes sociais deve ocupar toda a largura disponível
+-O tamanho dos ícones é de 24px
+-O espaçamento interno da caixa de ícones é de 24px (pra cima e pra baixo) e 0px para os lados
+-O espaço entre osícones deve ser de 16px
+-Os ícones devem estar alinhados ao centro
+-O espaçamento interno da caixa que contém os links deve ser de 24px (cima & baixo) e 0px para os lados
+-Ao clicar nos ícones das redes sociais, devemos ser direcionados ao site da respectiva rede social
+-Os links devem ter o padding de 16px e com bordas arredondadas a 50%
+-Ao passar o cursor pelos ícones, a cor de fundo deve mudar para white com opacidade de 0.2%
+-Os links nos ícones devem ocupar toda a largura disponível da caixa que as contém e tudo deve estar alinhado ao centro, com espaçamento interno de 16px
+-A transição do background deve ser de 0.2s
+-Criar um rodapé com o texto "Feito com ♥ pela Rocketseat"; Ao clicar na palavra Rocketseat, devemos ser direcionados ao site da rocketseat
+-O rodapé deve ter espaçamento interno de 24px (cima & baixo) e 0px pros lados
+-O texto do rodapé deve ter o tamanho de 14px e deve estar centralizado
+-Criar uma caixa para o botão de alternar os modos.
+-A caixa deve ter 32px de altura e largura, deve ser branca, deve ter as bordas arredondadas em 50% e deve possuir uma imagem de lua e estrelas dentro.
+-Dentro da caixa deve ter uma <span>;
+-A span deve ter 64px de largura, 24px de altura, o background deve ser o [--surface-color], a borda deve ter 1px (sólida) com a cor do [--stroke-color], deve ter tbm um embaçamento de 4px, uma borda arredondada a 999px
+
+
+--------------------------------------------------------------------------------------------------------------------------------------
+O [display: flex;] faz com que os elementos dentro de uma caixa ocupem toda a largura da caixa de forma dinâmica, ou seja, independentemente do número de elementos dentro da caixa, eles irão adaptar-se de modo a ocupar toda a largura disponível da caixa que os contém, sem sobrar espaços.
+
+O [gap] serve para criar espaços entre os elementos de uma caixa que usa o [display: flex;].

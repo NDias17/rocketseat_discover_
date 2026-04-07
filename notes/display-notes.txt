@@ -1,0 +1,16 @@
+Imagem tem largura de 112px;
+Foto de perfil alinhada ao centro;
+O tipo de letra de todo o body deve ser o Inter de cor branca;
+Criar um texto "@maykbrito" dentro da div #profile			
+O texto "@maykbrito" deve ter o peso de 500, tamanho 16px e a altura de linha de 24px;
+Fazer o resete de CSS (margin: 0, padding: 0, box-sizing: border-box);
+Padding do profile= 24px;
+Espaço entre o "@maykbrito" e a foto de perfil é de 8px;
+Da foto de perfil ao topo da página, o espaço é de 56px;
+O espaço entre o container e a página é de 56px pra cima, auto para os lados e 0px pra baixo;
+
+
+______________________________________________________________________________________________________________________________________
+Um elemento que foi estilizado com o display block ocupa toda a largura disponível no ecrã ou do elemento pai, e sempre começa em uma nova linha, ou seja, força todos os elementos depois dele a estarem abaixo dele e os que vêm antes a ficarem acima.
+
+Já os elementos com o display inline têm a sua largura adaptada ao seu conteúdo. Não é possível aplicar [margin: auto;] nem alterar a altura e largura em elementos inline.

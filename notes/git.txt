@@ -1,0 +1,13 @@
+CONCEITOS GIT
+
+Repository: local onde ficará armazenado o histórico do projecto
+Branch: é a linha temporal que vai conter todos os pontos ou versões do projecto
+Commit: são os pontos na linha do tempo, ou seja, as versões do projecto
+Stage: área de preparação do que será levado para a branch main
+
+COMANDOS
+[git init]: inicia o git (repositório) no seu projecto
+[git add .]: adiciona todos os arquivos modificados ao stage
+[git commit -m "mensagem aqui"]: cria e descreve um commit
+[git push]: envia alterações para o repositório remoto
+

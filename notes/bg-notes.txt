@@ -1,0 +1,11 @@
+backrgound-repeat:  //pra determinar se a imagem de fundo repete ou não
+background-position: //para alterar a posição da imagem de fundo
+bockground-size: cover; //serve para fazer com que a imagem preencha todo espaço disponível na página
+
+SHORTFORM do background:
+background: color image repeat position/size
+
+ESTRUTURA
+div(#container)[width: 360px; height: 720px; margin: auto;
+	div(#profile)[img: src="avatar.png" alt="Imagem de Mayk Brito sorrindo com óculos, t-shirt preta com fundo amarelo"
+	
